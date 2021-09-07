@@ -107,11 +107,11 @@ export default function App() {
                 href={Data.Linkedin}
                 rel="noreferrer"
                 target="_blank"
-                class="btn btn-primary my-2 me-2"
+                className="btn btn-primary my-2 me-2"
               >
                 Connect on Linkedin
               </a>
-              <a href="#Portfolio" class="btn btn-secondary my-2">
+              <a href="#Portfolio" className="btn btn-secondary my-2">
                 See My Portfolio
               </a>
             </>
